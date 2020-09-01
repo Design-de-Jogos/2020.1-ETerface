@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+
+nav:
+    - Documentação do Projeto: 
+      - Sobre: docs/about_gitpages.md
