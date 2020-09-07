@@ -1,7 +1,7 @@
-## Princípios de Usabilidade Game
+# Princípios de Usabilidade Game
 
-### Planejamento do Design do Jogo
+## Planejamento do Design do Jogo
 
-#### [Ciclo de Vida](life_cicle.md)
-#### [Cronograma](schedule.md)
-#### [Ferramentas](tools.md)
+### [Ciclo de Vida](life_cicle.md)
+### [Cronograma](schedule.md)
+### [Ferramentas](tools.md)
