@@ -1,5 +1,9 @@
 # PRINCÍPIOS DE USABILIDADE - GRUPO 1
 
+## TEMA
+
+O design do jogo desenvolvido tem por objetivo o ensino dos Princípios de Usabilidade, conteúdo de Interação Humano-Computador (IHC).
+
 ## EQUIPE
 
 | Nome                          | Matrícula  | GitHub             | Email                                |
