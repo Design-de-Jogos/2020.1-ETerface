@@ -15,3 +15,4 @@
 | Data | Versão| Descrição | Autor |
 |----|----|----|----|
 | 06/09/2020 | 1 | Adicionando Cronograma do Projeto | Rossicler, Mateus Sousa |
+| 06/09/2020 | 1 | Revisão e alteraçãod e atividades |  Mateus Sousa |
