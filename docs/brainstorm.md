@@ -63,4 +63,4 @@ Detalhar as fases
 | Data | Versão| Descrição | Autor |
 |----|----|----|----|
 | 06/09/2020 | 1 | Brainstorming 1 | Rossicler, Mateus Sousa |
-| 13/09/2020 | 1.1 | Brainstorming | Rossicler, Mateus Sousa |
+| 13/09/2020 | 1.1 | Brainstorming 2 | Rossicler, Mateus Sousa |
