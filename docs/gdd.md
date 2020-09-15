@@ -1,4 +1,4 @@
-# Game Design Document
+# GAME DESIGN DOCUMENT - GDD
 
 ## Sessão 1 - Visão Geral do Jogo
 
@@ -9,7 +9,17 @@ ETerface
 ## Sessão 2 - Background e Fluxo do Jogo
 
 ### História do Jogo
-Alien querendo aprender a usar as interfaces terráqueas 
+Na Galáxia IHC-SS, a 17 anos luz de distância da Terra, existe o planeta Usabilicon (traduzido para o Português), que chega a ser um pouco menor que a Lua que é povoado por uma raça de alienígenas. Eles não são uma raça de grandes guerreiros, ou são super inteligente, ou têm um poderio bélico gigantesco, - diferente do que ocorre nos filmes - esses aliens são seres bem comuns, porém um pouco mais avançados, em relação aos avanços tecnológicos.
+
+A característica que predomina entre os usabiliconianos é o gosto pelo estilo musical Zucrytz (traduzido para o Português) um estilo que se assemelha ao Eurobeat. 
+
+No ano 12002 do planeta Usabilicon, os cientistas usabiliconianos  descobriram com sua nova tecnologia de satélites, que em cerca de 5 anos seu planeta seria engolido por um buraco negro. No mesmo ano sua nova tecnologia de satélites conseguiu detectar, por sorte, o planeta Terra.
+
+Depois de 4 anos e 28 meses - em Usabilicon um ano te 30 meses - os usabiliconianos  conseguiram sair de seu planeta e foram para a Terra.
+
+Agora disfarçados na Terra, usando um tecnologia de transmorficação do corpo, os usabiliconianos  precisavam ganhar a vida.
+
+Dentre esses usabiliconianos está Nielsen (traduzido para o Português) especialista em engenharia de usabilidade de sistemas computacionais em Usabilicon, que agora precisa aprender os conceitos e princípios das interfaces terráques para poder conseguir um emprego e ganhar sua vida aqui na Terra.
 
 ### Fluxo do Jogo 
 Sequência de fases
@@ -20,7 +30,7 @@ Sequência de fases
 
 
 ## Sessão 3 - Gameplay
-*O Alien tenta criar analogias com coisas do seu mundo
+O Alien tenta criar analogias com coisas do seu mundo
 
 Perguntas e respostas
 - Questão: Princípio de Usabilidade -> Resposta: Explicação
@@ -43,13 +53,7 @@ Detalhar as fases
 ## Sessão 4 - Elementos do Jogo
 
 ### Personagem 
-Engenheiro de Software Alien
-
-### Inimigos
-???
-
-### Bônus
-???
+Engenheiro de Software Alien chamado Nielsen, também chamado pelos amigos mais íntimos em Usabilicon por Nielsenlito (tradução em Português)
 
 
 ## Sessão 5 - Controles I/O e Interface GUI
@@ -70,9 +74,16 @@ Plataforma Web
 
 ### Storyboard 
 
+<center>
+    <img src="img/storyboard1.jpeg" width="400" height="auto"></br>
+    Storyboard 1 </br></br>
+    <img src="img/storyboard2.jpeg" width="400" height="auto"></br>
+    Storyboard 2
+</center>
+
 
 ## Histórico de Revisão
 
 | Data | Versão| Descrição | Autor |
 |----|----|----|----|
-| 06/09/2020 | 1 | Brainstorming 1 | Rossicler, Mateus Sousa |
+| 14/09/2020 | 1 | Adicionando aspecto gerais do jogo | Rossicler, Mateus Sousa |
