@@ -48,12 +48,18 @@ O jogador após ter respondido 70% das perguntas corretamente terá de realizar 
 ### Progressão do Jogo
 #### Fases
 Todas as fases do jogo abordará um conhecimento diferente dentro da área de Usabilidade, indo do conceito mais inicial até a avaliação de interfaces feitas pelo usuário, cada poderá ter um formato diferente de respota, abaixo será descrito o que será abordado em cada fase e quais são os formatos de respostas esperados pelo usuário.
+
+
 ##### Fase 1
 - **Tema:** Princípios de Usabilidade
 - **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D);
+
+
 ##### Fase 2
 - **Tema:** Heurísticas de Usabilidade de Nielsen
 - **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D);
+
+
 ##### Fase 3
 - **Tema:** Avaliação prática de Heurísticas de Usabilidade de Nielsen
 - **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Identificar problemas de usabilidade em uma interface;
@@ -84,16 +90,15 @@ Plataforma Web
 ### Storyboard 
 
 <center>
-    <img src="img/storyboard1.jpeg" width="400" height="auto"></br>
-    Storyboard 1 </br></br>
-    <img src="img/storyboard2.jpeg" width="400" height="auto"></br>
-    Storyboard 2
+    <img src="img/storyboard1.jpeg" width="400" height="auto" alt="Storyboard 1">
+    <img src="img/storyboard2.jpeg" width="400" height="auto" alt="Storyboard 2">
 </center>
 
 
 ## Histórico de Revisão
 
-| Data | Versão| Descrição | Autor |
-|----|----|----|----|
-| 14/09/2020 | 1 | Adicionando aspectos gerais do jogo, história, elementos do jogo e storyboard | Mateus Sousa |
-| 14/09/2020 | 1.1 | Atualização nos tópicos : fluxo do jogo, mecânica do jogo e fases | Rossicler |
+| Data | Versão| Descrição | Fase | Autor |
+|----|----|----|----|----|
+| 14/09/2020 | 1 | Adicionando aspectos gerais do jogo, história, elementos do jogo e storyboard | Análise de Requisitos | Mateus Sousa |
+| 14/09/2020 | 1.1 | Atualização nos tópicos : fluxo do jogo, mecânica do jogo e fases | Análise de Requisitos | Rossicler |
+| 16/09/2020 | 1.2 | Adicionado a coluna de fase no histórico de revisão | Análise de Requisitos | Rossicler |
