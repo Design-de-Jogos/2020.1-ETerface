@@ -61,9 +61,12 @@ Todas as fases do jogo abordará um conhecimento diferente dentro da área de Us
 
 
 ##### Fase 3
-- **Tema:** Avaliação prática de Heurísticas de Usabilidade de Nielsen
+- **Tema:** Avaliação de Heurística de Usabilidade de Nielsen
 - **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Identificar problemas de usabilidade em uma interface;
 
+##### Fase 4
+- **Tema:** Todo o Conteúdo das Fases Anteriores
+- **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Identificar problemas de usabilidade em uma interface;
 
 ## Sessão 4 - Elementos do Jogo
 
@@ -102,3 +105,4 @@ Plataforma Web
 | 14/09/2020 | 1 | Adicionando aspectos gerais do jogo, história, elementos do jogo e storyboard | Análise de Requisitos | Mateus Sousa |
 | 14/09/2020 | 1.1 | Atualização nos tópicos : fluxo do jogo, mecânica do jogo e fases | Análise de Requisitos | Rossicler |
 | 16/09/2020 | 1.2 | Adicionado a coluna de fase no histórico de revisão | Análise de Requisitos | Rossicler |
+| 16/09/2020 | 1.2.1 | Atualização do tópico "Fases" | Análise de Requisitos | Mateus Sousa |
