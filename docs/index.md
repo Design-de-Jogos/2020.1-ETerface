@@ -17,3 +17,9 @@ No cronograma está apresentado as entregas e prazos de cada etapa do design do 
 Aqui estão apresentadas as ferramentas utilizadas para o desenvolvimento do projeto
 
 ### [Game Desig Document - GDD](gdd.md)
+
+Neste documento são apresentados os aspectos de design do jogo.
+
+### [Technical Desig Document - TDD](tdd.md)
+
+Neste documento são apresentados os aspectos de técnico de desenvolviemnto do jogo.
