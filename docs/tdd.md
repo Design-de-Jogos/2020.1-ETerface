@@ -25,9 +25,17 @@ Carlos ainda tem uma boa rotina de estudos, ele costuma prestar bem a atenção 
 
 Seu desejo é fazer o mínimo possível de esforço fora da sala de aula para entender a matéria, pois em casa quer passar o tempo descansando, tocando violão ou jogando vídeo game.
 
-PERSONA 3: Primária
+#### PERSONA 3: Primária
 
-PERSONA 4: Anti-persona
+Felipe Pereira dos Santos, aluno do curso de Engenharia de Software, tem 22 anos. Ele está cursando a disciplina de IHC.
+
+Felipe gosta de balancear o estudo de forma que é estudado bem sobre um assunto pequeno e praticá-lo até sentir que está bem naquele tópico, assim Felipe acaba estudando em vários momentos diferentes do dia, pois não gosta de ficar estudando por um período muito longo sobre um assunto, o que se encaixou muito bem com as aulas remotas, onde ele pode ter períodos de descanso durante suas atividades, assim conseguindo atingir o seu objetivo, que é estudar de forma leve, sem ficar exausto por estar a muito tempo estudando. 
+
+#### PERSONA 4: Anti-persona
+
+Renato Queiroz, aluno do curso de Engenharia de Software, tem 23 anos. Ele está cursando a disciplina de IHC.
+
+Renato é um aluno que tem orgulho de dizer que estuda na UnB, porém não se esforça em suas atividades. Sua escolha de curso foi baseada no salário e status da profissão, mesmo ele percebendo que não gosta do seu curso, ele continua o curso com o objetivo de ficar rico após se formar. Seu objetivo é se formar e passar em qualquer concurso que pague bem, sem se importar quais funções serão exercidas por ele.
 
 ## Sessão 2 - Análise de Tarefas
 
