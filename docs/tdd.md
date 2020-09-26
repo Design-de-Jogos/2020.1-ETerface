@@ -63,6 +63,8 @@ PERSONA 4: Anti-persona
 
 ## Sessão 3 - Metas de Usabilidade e Experiência do Jogador
 
+O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de usabilidade e experiência do jogador da perspectiva dos alunos [Petri et al., 2018]. 
+
 | Fator de Qualidade     | Dimensão               | ID   | Descrição                                                                                                |   
 |------------------------|------------------------|------|----------------------------------------------------------------------------------------------------------|
 |      Usabilidade       | Estética               | 1    | O design do jogo é atraente (interface, gráficos, cartões, placas, etc.).                                |   
@@ -82,7 +84,10 @@ PERSONA 4: Anti-persona
 |                        | Satisfação             | 14   | Concluir as tarefas do jogo me deu uma sensação satisfatória de realização.                              |   
 |                        |                        | 15   | É pelo meu esforço pessoal que consegui avançar no jogo.                                                 |   
 |                        |                        | 16   | Estou satisfeito com as coisas que aprendi com o jogo.                                                   |   
-|                        |                        | 17   | Eu recomendaria este jogo aos meus colegas.                                                              |   
+|                        |                        | 17   | Eu recomendaria este jogo aos meus colegas.                                                              | 
+|                        | Interação Social       | 18   | Pude interagir com outros jogadores durante o jogo.                                                      |   
+|                        |                        | 19   | O jogo promove a cooperação e / ou competição entre os jogadores.                                        |   
+|                        |                        | 20   | Me senti bem interagindo com outros jogadores durante o jogo.                                            |   
 |                        | Diversão               | 21   | Eu me diverti com o jogo.                                                                                |   
 |                        |                        | 22   | Algo aconteceu durante o jogo (elementos do jogo, competição, etc.) que me fez sorrir.                   |   
 |                        | Atenção Focada         | 23   | Havia algo interessante no início do jogo que chamou minha atenção.                                      |   
