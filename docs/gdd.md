@@ -28,6 +28,9 @@ O jogo terá uma sequência de fases ao qual o usuário deverá seguir para que 
 - Fase 3 Avaliação prática de Heurística de Usabilidade de Nielsen
 - Fase 4 Compilado de todo o conteúdo.
 
+![Fluxo de uma Fase](./img/fluxo_fases.png)
+Figura 1 - Fluxo de uma Fase
+
 
 ## Sessão 3 - Gameplay
 
@@ -92,6 +95,9 @@ Plataforma Web
 
 ### Storyboard 
 
+![Storyboard Persona 3 - Felipe Pereira dos Santos](./img/storyboard.PNG)
+Figura 2 - Storyboard Persona 3 Felipe Pereira dos Santos
+
 <center>
     <img src="img/storyboard1.jpeg" width="400" height="auto" alt="Storyboard 1">
     <img src="img/storyboard2.jpeg" width="400" height="auto" alt="Storyboard 2">
@@ -106,3 +112,4 @@ Plataforma Web
 | 14/09/2020 | 1.1 | Atualização nos tópicos : fluxo do jogo, mecânica do jogo e fases | Análise de Requisitos | Rossicler |
 | 16/09/2020 | 1.2 | Adicionado a coluna de fase no histórico de revisão | Análise de Requisitos | Rossicler |
 | 16/09/2020 | 1.2.1 | Atualização do tópico "Fases" | Análise de Requisitos | Mateus Sousa |
+| 05/10/2020 | 1.3.1 | Atualização do tópico "Fluxos do jogo" e "Storyboard" | Análise de Requisitos | Rossicler |
