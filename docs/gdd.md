@@ -93,10 +93,12 @@ Plataforma Web
 
 ## Seção 8 - Criatividade e melhorias especiais no conceito de jogo
 
-### Rascunho do jogo
+### Storyboard
 
 ![Storyboard Persona 3 - Felipe Pereira dos Santos](./img/storyboard.PNG)
 Figura 2 - Storyboard Persona 3 Felipe Pereira dos Santos
+
+### Rascunho do jogo
 
 <center>
     <img src="img/storyboard1.jpeg" width="400" height="auto" alt="Storyboard 1">
