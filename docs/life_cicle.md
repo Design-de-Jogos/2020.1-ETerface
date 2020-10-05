@@ -3,7 +3,9 @@
 Neste projeto foi usado o ciclo de vida de engenharia de usabilidade proposto por Deborah Mayhew (1999), adaptado para o desenvolvimento de design de jogos.
 
 ![Diagrama Mayhew Adaptado](img/driagram_mayhew.png)
-<center>Ciclo de Vida de Engenharia de Usabilidade - Adaptado de Mayhew (1999)</center></br>
+<center>Ciclo de Vida de Engenharia de Usabilidade - Adaptado de Mayhew (1999)</center>
+                 
+<br/>                  
 
 Na fase de Análise Requisitos a atividade de identificação de um perfil de usuário foi complementada pela técnica de persona. Segundo Cooper (1999) a aplicação da técnica de persona para a criação de design de interface é mais adaptável ao usuário em si do que as técnicas tradicionais de identificar o perfil do usuário.
 

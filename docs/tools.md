@@ -5,8 +5,8 @@
 ### Telegram para comunicação rápida entre integrantes da equipe
 <div style="text-align:center" ><img src="img/telegram.png" height="150" width="auto"/></div>
 
-### Google Meet para reuniões virtuais da equipe
-<div style="text-align:center" ><img src="img/hangouts-meet.png" height="150" width="auto"/></div>
+### Microsoft Teams para reuniões virtuais da equipe
+<div style="text-align:center" ><img src="img/teams.png" height="150" width="auto"/></div>
 
 ## Repositório
 
