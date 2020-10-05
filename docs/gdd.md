@@ -105,6 +105,9 @@ Figura 2 - Storyboard Persona 3 Felipe Pereira dos Santos
     <img src="img/storyboard2.jpeg" width="400" height="auto" alt="Storyboard 2">
 </center>
 
+## Referências
+- Storyboard. Disponível em: <https://www.storyboardthat.com>. Acesso em 04 out. 2020.
+
 
 ## Histórico de Revisão
 
