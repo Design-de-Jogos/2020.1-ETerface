@@ -1,12 +1,12 @@
 # GAME DESIGN DOCUMENT - GDD
 
-## Sessão 1 - Visão Geral do Jogo
+## Seção 1 - Visão Geral do Jogo
 
 ### Título do Jogo
 ETerface
 
 
-## Sessão 2 - Background e Fluxo do Jogo
+## Seção 2 - Background e Fluxo do Jogo
 
 ### História do Jogo
 Na Galáxia IHC-SS, a 17 anos luz de distância da Terra, existe o planeta Usabilicon (traduzido para o Português), que chega a ser um pouco menor que a Lua que é povoado por uma raça de alienígenas. Eles não são uma raça de grandes guerreiros, ou são super inteligente, ou têm um poderio bélico gigantesco, - diferente do que ocorre nos filmes - esses aliens são seres bem comuns, porém um pouco mais avançados, em relação aos avanços tecnológicos.
@@ -32,7 +32,7 @@ O jogo terá uma sequência de fases ao qual o usuário deverá seguir para que 
 Figura 1 - Fluxo de uma Fase
 
 
-## Sessão 3 - Gameplay
+## Seção 3 - Gameplay
 
 Perguntas e respostas
 - Questão: Princípio de Usabilidade -> Resposta: Explicação
@@ -50,7 +50,7 @@ O jogador após ter respondido 70% das perguntas corretamente terá de realizar 
 
 ### Progressão do Jogo
 #### Fases
-Todas as fases do jogo abordará um conhecimento diferente dentro da área de Usabilidade, indo do conceito mais inicial até a avaliação de interfaces feitas pelo usuário, cada poderá ter um formato diferente de respota, abaixo será descrito o que será abordado em cada fase e quais são os formatos de respostas esperados pelo usuário.
+Todas as fases do jogo abordará um conhecimento diferente dentro da área de Usabilidade, indo do conceito mais inicial até a avaliação de interfaces feitas pelo usuário, cada questão poderá ter um formato diferente de respota, abaixo será descrito o que será abordado em cada fase e quais são os formatos de respostas esperados pelo usuário.
 
 
 ##### Fase 1
@@ -65,13 +65,13 @@ Todas as fases do jogo abordará um conhecimento diferente dentro da área de Us
 
 ##### Fase 3
 - **Tema:** Avaliação de Heurística de Usabilidade de Nielsen
-- **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Identificar problemas de usabilidade em uma interface;
+- **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Tarefa de inspeção de interface identificando qual a violação de usabilidade e o local;
 
 ##### Fase 4
 - **Tema:** Todo o Conteúdo das Fases Anteriores
 - **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Identificar problemas de usabilidade em uma interface;
 
-## Sessão 4 - Elementos do Jogo
+## Seção 4 - Elementos do Jogo
 
 ### Personagem 
 Engenheiro de Software Alien chamado Nielsen, também chamado pelos amigos mais íntimos em Usabilicon por Nielsenlito (tradução em Português)
@@ -91,9 +91,9 @@ Engenheiro de Software Alien chamado Nielsen, também chamado pelos amigos mais 
 Plataforma Web
 
 
-## Sessão 8 - Criatividade e melhorias especiais no conceito de jogo
+## Seção 8 - Criatividade e melhorias especiais no conceito de jogo
 
-### Storyboard 
+### Rascunho do jogo
 
 ![Storyboard Persona 3 - Felipe Pereira dos Santos](./img/storyboard.PNG)
 Figura 2 - Storyboard Persona 3 Felipe Pereira dos Santos

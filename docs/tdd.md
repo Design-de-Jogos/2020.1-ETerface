@@ -1,6 +1,6 @@
 # TECHNICAL DESIGN DOCUMENT - TDD
 
-## Sessão 1 - Técnica de Elicitação de Requisitos
+## Seção 1 - Técnica de Elicitação de Requisitos
 
 ### Personas
 "Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico" - BARBOSA, 2010.
@@ -37,39 +37,36 @@ Renato Queiroz, aluno do curso de Engenharia de Software, tem 23 anos. Ele está
 
 Renato é um aluno que tem orgulho de dizer que estuda na UnB, porém não se esforça em suas atividades. Sua escolha de curso foi baseada no salário e status da profissão, mesmo ele percebendo que não gosta do seu curso, ele continua o curso com o objetivo de ficar rico após se formar. Seu objetivo é se formar e passar em qualquer concurso que pague bem, sem se importar quais funções serão exercidas por ele.
 
-## Sessão 2 - Análise de Tarefas
+## Seção 2 - Elicitação dos Requisitos
 
 ### Requisitos Funcionais
-- RF01: CRUD do Jogador
-- RF02: O Jogador deve ser capaz de iniciar, progredir e finalizar as fases
-- RF03: O Jogador deve ser capaz de iniciar, progredir e finalizar as tarefas de cada fase
-- RF04: O Jogador deve ser capaz de responder as questões e desafios de cada tarefa
-- RF05: O Jogo deve contabilizar a porcentagem de progresso da fase jogada
-- RF06: O Jogo deve limitar o tempo de conclusão das últimas tarefas das fases
-- RF07: O Jogo deve disponibilizar conteúdo da disciplina
-- RF08: O Jogo não deve disponibilizar dicas nas últimas tarefas da fases
-- RF09: O Jogador deve ser capaz de entrar e sair do jogo
-- RF10: O Jogo deve ser capaz de salvar o progresso do jogador
-- RF11: As tarefas de cada fase devem fornecer opções de resposta
-- RF12: As tarefas de cada fase devem fornecer corpo textual da questão
-- RF13: As tarefas de avaliação de interface deve fornecer lista de componentes da interface e lista de opções de resposta
-- RF14: As tarefas de cada fase devem abranger somente o conteúdo daquela fase ou de fases anteriores
+- RF01: CRUD do Jogador [Brainstorming]
+- RF02: O Jogador deve ser capaz de iniciar, progredir e finalizar as fases [Brainstorming]
+- RF03: O Jogador deve ser capaz de iniciar, progredir e finalizar as tarefas de cada fase [Brainstorming]
+- RF04: O Jogo deve contabilizar a porcentagem de progresso da fase jogada [Brainstorming]
+- RF05: O Jogo deve limitar o tempo de conclusão das últimas tarefas das fases [Brainstorming]
+- RF06: O Jogador deve ser capaz de entrar e sair do jogo [Brainstorming]
+- RF07: O Jogo deve ser capaz de salvar o progresso do jogador [Brainstorming]
+- RF08: As tarefas de cada fase devem capturar e verificar as opções de resposta [Brainstorming]
+- RF09: As tarefas de cada fase devem disponibilizar o corpo textual da questão [Brainstorming]
+- RF10: O jogo deve disponibilizar o conteúdo a ser ensinado [Brainstorming]
 
 
 ### Requisitos Não-Funcionais
-- RFN01: O jogador deve ser capaz de visualizar seu progresso das fases
-- RFN02: O jogador deve ser capaz de visualizar seu progresso das tarefas
-- RFN03: O jogador deve receber feedback ao final de cada fase, se conseguiu ou não passar para a próxima fase
-- RFN04: O Jogo deve disponibilizar dicas durante a execução das tarefas das fases 
-- RFN05: O Jogo não deve disponibilizar dicas durante a execução das últimas tarefas das fases
-- RFN06: O Jogo deve dar um feedback do tempo restante para se concluir a última tarefa da fase
-- RFN07: O Jogo deve apresentar a história do jogo
-- RFN08: O Jogo deve disponibilizar o conteúdo da disciplina completo e resumido
-- RFN09: Opções selecionadas devem ser destacadas visualmente
-- RFN10: O jogo deve disponibilizar resposta correta e breve explicação a cada tarefa
-- RFN11: O jogador deve receber feedback se acertou ou não a resposta da tarefa atual
+- RNF01: O jogador deve ser capaz de visualizar seu progresso das fases [Brainstorming]
+- RNF02: O jogador deve ser capaz de visualizar seu progresso das tarefas [Brainstorming]
+- RNF03: O jogador deve receber feedback ao final de cada fase, se conseguiu ou não passar para a próxima fase [Artigo CBIE] [Personas]
+- RNF04: O Jogo deve apresentar dicas durante a execução das tarefas das fases [Artigo CBIE] [Personas]
+- RNF05: O Jogo não deve apresentar dicas durante a execução das últimas tarefas das fases [Personas]
+- RNF06: O Jogo deve dar um feedback do tempo restante para se concluir a última tarefa da fase [Artigo CBIE] [Personas]
+- RNF07: O Jogo deve apresentar a história do jogo [Artigo CBIE]
+- RNF08: O Jogo deve aprensentar o conteúdo da disciplina completo e resumido [Artigo CBIE] [Personas]
+- RNF09: Opções selecionadas devem ser destacadas visualmente [Artigo CBIE]
+- RNF10: O jogo deve apresentar a resposta correta e breve explicação a cada tarefa [Artigo CBIE]
+- RNF11: As tarefas de inspeção de interface devem apresentar um lista de componentes da interface e lista de opções de violação como resposta [Brainstorming]
+- RNF12: Jogo deve apresentar a mecânica do jogo e suas regras [Artigo CBIE]
 
-## Sessão 3 - Metas de Usabilidade e Experiência do Jogador
+## Seção 3 - Metas de Usabilidade e Experiência do Jogador
 
 O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de usabilidade e experiência do jogador da perspectiva dos alunos [Petri et al., 2018]. 
 
@@ -113,6 +110,7 @@ O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de us
 | Data | Versão| Descrição | Fase | Autor |
 |----|----|----|----|----|
 | 21/09/2020 | 1 | Criado o Documento TDD e adicionando Personas, requisitos fincionais e não funcionais, e as metas de usabilidade e de experiência do jogador | Análise de Requisitos | Mateus Sousa e Rossiscler|
+| 05/10/2020 | 1.1 | Atualizando Requisitos e Rastreando suas origens | Mateus Sousa |
 
 
 ## Referências
@@ -120,4 +118,7 @@ O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de us
 - BARBOSA, S. D. J.; SILVA, B. S. DA. Interação Humano-Computador, 2010.
 - COOPER, A. et al. About face 3: the essentials of interaction design. [3rd ed.], Completely rev. & updated ed. Indianapolis, IN: Wiley Pub, 2007. 
 - PETRI, G.; WANGENHEIM, C. G. VON. A Method for the Evaluation of the Quality of Games for Computing Education. Anais dos Workshops do VIII Congresso Brasileiro de Informática na Educação (CBIE 2019). Anais... In: VIII CONGRESSO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO. Brasília, Distrito Federal, Brasil: Brazilian Computer Society (Sociedade Brasileira de Computação - SBC), 21 nov. 2019 Disponível em: <https://br-ie.org/pub/index.php/wcbie/article/view/9045>. Acesso em: 15 ago. 2020
+- DE SALES, A. B.; SOUSA E SILVA, M. A. Jogos Sérios no Processo de Ensino e Aprendizagem de Interação Humano-Computador. p. 10, 2020. 
+
+
 
