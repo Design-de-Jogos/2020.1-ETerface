@@ -11,6 +11,8 @@ O elenco de personas pode ser complemntado por personas secundárias, que são d
 
 #### PERSONA 1: Primária
 
+<img src="./img/personas/foto1.jpg" width="auto" height="200" alt="Persona 1 - Nicolly Souza">
+
 Nicolly Souza, aluna do curso de Engenharia de Software, 20 anos. Ele está cursando a disciplina de IHC. Durante o ensino médio ela fez um curso de design gráfico, o qual lhe deu uma boa percepção para elaborar interfaces.
 
 Ela costuma separar longos períodos de estudo, onde, ao som de um bom Jazz instrumental, se dedica e foca até conseguir ter a percepção que está dominando bem a matéria, no caso até o ponto que foi ministrado em sala de aula pelo professor. Nicolly tem o hábito de estudar bem a teoria, seguindo os livros base que os professores sugerem, e depois fazer exercícios para fixar.
@@ -18,6 +20,8 @@ Ela costuma separar longos períodos de estudo, onde, ao som de um bom Jazz inst
 Nesse semestre atípico da faculdade ela se preocupa com seu desempenho nas disciplinas, pois as estão acontecendo diversas reuniões de trabalho em grupo durante a semana que acabam quebrando seu ritmo de estudo. Agora seu objetivo é se adaptar a essa nova realidade. 
 
 #### PERSONA 2: Primária
+
+<img src="./img/personas/foto2.jpg" width="auto" height="200" alt="Persona 2 - Carlos André Feitosa da Silva">
 
 Carlos André Feitosa da Silva, aluno do curso de Engenharia de Software, tem 21 anos. Ele está cursando a disciplina de IHC. Gosta bastante jogos eletrônicos e toca violão.
 
@@ -27,11 +31,15 @@ Seu desejo é fazer o mínimo possível de esforço fora da sala de aula para en
 
 #### PERSONA 3: Primária
 
+<img src="./img/personas/foto4.jpg" width="auto" height="200" alt="Persona 3 - Felipe Pereira">
+
 Felipe Pereira dos Santos, aluno do curso de Engenharia de Software, tem 22 anos. Ele está cursando a disciplina de IHC.
 
 Felipe gosta de balancear o estudo de forma que é estudado bem sobre um assunto pequeno e praticá-lo até sentir que está bem naquele tópico, assim Felipe acaba estudando em vários momentos diferentes do dia, pois não gosta de ficar estudando por um período muito longo sobre um assunto, o que se encaixou muito bem com as aulas remotas, onde ele pode ter períodos de descanso durante suas atividades, assim conseguindo atingir o seu objetivo, que é estudar de forma leve, sem ficar exausto por estar a muito tempo estudando. 
 
 #### PERSONA 4: Anti-persona
+
+<img src="./img/personas/foto3.jpg" width="auto" height="200" alt="Persona 4 - Renato Queiroz">
 
 Renato Queiroz, aluno do curso de Engenharia de Software, tem 23 anos. Ele está cursando a disciplina de IHC.
 
@@ -111,6 +119,7 @@ O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de us
 |----|----|----|----|----|
 | 21/09/2020 | 1 | Criado o Documento TDD e adicionando Personas, requisitos fincionais e não funcionais, e as metas de usabilidade e de experiência do jogador | Análise de Requisitos | Mateus Sousa e Rossiscler|
 | 05/10/2020 | 1.1 | Atualizando Requisitos e Rastreando suas origens | Mateus Sousa |
+| 05/10/2020 | 1.1.2 | Adicionando fotos para as personas | Rossicler |
 
 
 ## Referências
@@ -119,6 +128,4 @@ O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de us
 - COOPER, A. et al. About face 3: the essentials of interaction design. [3rd ed.], Completely rev. & updated ed. Indianapolis, IN: Wiley Pub, 2007. 
 - PETRI, G.; WANGENHEIM, C. G. VON. A Method for the Evaluation of the Quality of Games for Computing Education. Anais dos Workshops do VIII Congresso Brasileiro de Informática na Educação (CBIE 2019). Anais... In: VIII CONGRESSO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO. Brasília, Distrito Federal, Brasil: Brazilian Computer Society (Sociedade Brasileira de Computação - SBC), 21 nov. 2019 Disponível em: <https://br-ie.org/pub/index.php/wcbie/article/view/9045>. Acesso em: 15 ago. 2020
 - DE SALES, A. B.; SOUSA E SILVA, M. A. Jogos Sérios no Processo de Ensino e Aprendizagem de Interação Humano-Computador. p. 10, 2020. 
-
-
-
+- Fotos das personas. Disponível em: <https://br.depositphotos.com/stock-phtos/>. Acesso em 04 out. 2020
