@@ -86,8 +86,17 @@ Plataforma Web
 
 ### Storyboard
 
-![Storyboard Persona 3 - Felipe Pereira dos Santos](./img/storyboard.PNG)
-Figura 2 - Storyboard Persona 3 Felipe Pereira dos Santos
+![Storyboard Persona 1 - Nicoly](./img/storyboard-nicoly.png)
+Figura 2 - Storyboard Persona 1 - Nicoly
+</br></br></br>
+
+![Storyboard Persona 2 - Carlos](./img/storyboard-carlos.png)
+Figura 3 - Storyboard Persona 2 - Carlos
+</br></br></br>
+
+![Storyboard Persona 3 - Felipe Pereira dos Santos](./img/storyboard-felipe.PNG)
+Figura 4 - Storyboard Persona 3 Felipe
+</br></br></br>
 
 ### Esboço do jogo
 
@@ -109,3 +118,4 @@ Figura 2 - Storyboard Persona 3 Felipe Pereira dos Santos
 | 16/09/2020 | 1.2 | Adicionado a coluna de fase no histórico de revisão | Análise de Requisitos | Rossicler |
 | 16/09/2020 | 1.2.1 | Atualização do tópico "Fases" | Análise de Requisitos | Mateus Sousa |
 | 05/10/2020 | 1.3.1 | Atualização do tópico "Fluxos do jogo" e "Storyboard" | Análise de Requisitos | Rossicler |
+| 22/10/2020 | 1.4 | Adição de novos Storyboards | Design, Desenvolvimento e Avaliação | Mateus Sousa |

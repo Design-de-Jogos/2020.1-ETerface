@@ -1,7 +1,7 @@
 # Avaliação Rápida e Suja
 
 "Uma avaliação 'rápida e suja' é uma prática comum, na qual os designers obtêm um feedback informal dos usuários ou consultores para confirmar que suas ideias estão de acordo com as necessidades dos usuários e que estão agradando. Avaliações desse tipo podem ser realizadas em qualquer estágio, e a ênfase está em uma contribuição
-(input) rápida, não em descobertas cuidadosamente documcntadas. (Preece e Rogers, 2013)
+(input) rápida, não em descobertas cuidadosamente documcntadas. (Preece e Rogers, 2005)
 
 ## Processo da Avaliação
 
@@ -91,8 +91,14 @@ Foram priorizados todos os feedbacks elicitados na avaliação e então definido
 
 ## Histórico de Revisão
 
-| Data | Versão| Descrição | Autor |
-|----|----|----|----|
-| 19/10/2020 | 1 | Criação do Relatório da avaliação do protótipo| Rossicler, Mateus Sousa |
-| 21/10/2020 | 1.1 | Descrição do processo de avaliação|  Mateus Sousa |
-| 22/10/2020 | 1.2 | Descrição do processo de avaliação|  Mateus Sousa |
+| Data | Versão| Descrição | Fase | Autor |
+|----|----|----|----|----|
+| 19/10/2020 | 1 | Criação do Relatório da avaliação do protótipo| Design, Desenvolvimento e Avaliação | Rossicler, Mateus Sousa |
+| 21/10/2020 | 1.1 | Descrição do processo de avaliação| Design, Desenvolvimento e Avaliação |  Mateus Sousa |
+| 22/10/2020 | 1.2 | Descrição do processo de avaliação| Design, Desenvolvimento e Avaliação |  Mateus Sousa |
+
+## Referências
+
+- BARBOSA, S. D. J.; SILVA, B. S. DA. Interação Humano-Computador, 2010.
+- PREECE, J.; ROGERS, Y.; SHARP, H. Design de Interacao. [s.l.] Bookman, 2005. 
+

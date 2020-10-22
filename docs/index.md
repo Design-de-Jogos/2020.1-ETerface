@@ -23,3 +23,7 @@ Neste documento são apresentados os aspectos de design do jogo.
 ### [Technical Desig Document - TDD](tdd.md)
 
 Neste documento são apresentados os aspectos de técnico de desenvolviemnto do jogo.
+
+### [Avaliação do Protótipo de Papel](prototype_low.md)
+
+Neste documento é apresentado o relato da execução da avaliação do protótipo de papel.
