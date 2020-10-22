@@ -76,29 +76,20 @@ Todas as fases do jogo abordará um conhecimento diferente dentro da área de Us
 ### Personagem 
 Engenheiro de Software Alien chamado Nielsen, também chamado pelos amigos mais íntimos em Usabilicon por Nielsenlito (tradução em Português)
 
-
-## Sessão 5 - Controles I/O e Interface GUI
-...
-
-
-## Sessão 6 - Recursos Visuais e de Áudio
-...
-
-
-## Sessão 7 - Parâmetros e requisitos do sistema
+## Sessão 5 - Parâmetros e requisitos do sistema
 
 ### Plataforma:
 Plataforma Web
 
 
-## Seção 8 - Criatividade e melhorias especiais no conceito de jogo
+## Seção 6 - Criatividade e melhorias especiais no conceito de jogo
 
 ### Storyboard
 
 ![Storyboard Persona 3 - Felipe Pereira dos Santos](./img/storyboard.PNG)
 Figura 2 - Storyboard Persona 3 Felipe Pereira dos Santos
 
-### Rascunho do jogo
+### Esboço do jogo
 
 <center>
     <img src="img/storyboard1.jpeg" width="400" height="auto" alt="Storyboard 1">
