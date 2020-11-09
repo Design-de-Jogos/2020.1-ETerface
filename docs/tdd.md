@@ -55,9 +55,10 @@ Renato é um aluno que tem orgulho de dizer que estuda na UnB, porém não se es
 - RF05: O Jogo deve limitar o tempo de conclusão das últimas tarefas das fases [Brainstorming]
 - RF06: O Jogador deve ser capaz de entrar e sair do jogo [Brainstorming]
 - RF07: O Jogo deve ser capaz de salvar o progresso do jogador [Brainstorming]
-- RF08: As tarefas de cada fase devem capturar e verificar as opções de resposta [Brainstorming]
+- RF08: O Jogo deve aceitar e verificar a resposta selecionada pelo jogador em cada atividade[Brainstorming]
 - RF09: As tarefas de cada fase devem disponibilizar o corpo textual da questão [Brainstorming]
 - RF10: O jogo deve disponibilizar o conteúdo a ser ensinado [Brainstorming]
+- RF11: O jogador deve poder confirmar sua resposta antes dela ser aceita [Personas]
 
 
 ### Requisitos Não-Funcionais
@@ -70,13 +71,20 @@ Renato é um aluno que tem orgulho de dizer que estuda na UnB, porém não se es
 - RNF07: O Jogo deve apresentar a história do jogo [Artigo CBIE]
 - RNF08: O Jogo deve aprensentar o conteúdo da disciplina completo e resumido [Artigo CBIE] [Personas]
 - RNF09: Opções selecionadas devem ser destacadas visualmente [Artigo CBIE]
-- RNF10: O jogo deve apresentar a resposta correta e breve explicação a cada tarefa [Artigo CBIE]
+- RNF10: O jogo deve apresentar uma mensagem de erro e uma resposta correta e a breve explicação a cada tarefa caso o jogador erre [Artigo CBIE] [Personas]
 - RNF11: As tarefas de inspeção de interface devem apresentar um lista de componentes da interface e lista de opções de violação como resposta [Brainstorming]
-- RNF12: Jogo deve apresentar a mecânica do jogo e suas regras [Artigo CBIE]
+- RNF12: O jogo deve apresentar a mecânica do jogo e suas regras [Artigo CBIE]
+- RNF13: O jogo deve disponibilizar uma seção onde o aluno pode exercitar sobre qualquer conteúdo [Personas]
+- RNF14: Ao clicar na fase desejada a opção de iniciar a fase aparece próxima a opção da fase [Personas]
+- RNF15: O jogo deve apresentar uma mensagem de acerto e uma breve explicação a cada tarefa caso o jogador acerte [Artigo CBIE] [Persona]
+- RNF16: O jogo deve dar um feedback de conclusão da fase e direcionar para a próxima [Personas] [Artigo CBIE]
+- RNF17:  O jogo deve dar feedbacks ao longo da fase para manter o engajamento do jogador [Quick and Dirty] [Artigo CBIE]
+- RNF18: O jogo deve recompensar o jogador com emblmas e conquistas [Quick and Dirty] [Artigo CBIE]
+- RNF19: O jogo deve apresentar um feedback que o teste está disponível para ser realizado[Personas] [Artigo CBIE]
 
 ## Seção 3 - Metas de Usabilidade e Experiência do Jogador
 
-O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de usabilidade e experiência do jogador da perspectiva dos alunos [Petri et al., 2018]. 
+O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de usabilidade e experiência do jogador da perspectiva dos alunos [Petri et al., 2018]. Neste projeto adotamos alguns desses critérios de qualidade, exceto os fatores de experiência do jogador relacionados a interação social.
 
 | Fator de Qualidade     | Dimensão               | ID   | Descrição                                                                                                |   
 |------------------------|------------------------|------|----------------------------------------------------------------------------------------------------------|
@@ -98,28 +106,28 @@ O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de us
 |                        |                        | 15   | É pelo meu esforço pessoal que consegui avançar no jogo.                                                 |   
 |                        |                        | 16   | Estou satisfeito com as coisas que aprendi com o jogo.                                                   |   
 |                        |                        | 17   | Eu recomendaria este jogo aos meus colegas.                                                              | 
-|                        | Interação Social       | 18   | Pude interagir com outros jogadores durante o jogo.                                                      |   
-|                        |                        | 19   | O jogo promove a cooperação e / ou competição entre os jogadores.                                        |   
-|                        |                        | 20   | Me senti bem interagindo com outros jogadores durante o jogo.                                            |   
-|                        | Diversão               | 21   | Eu me diverti com o jogo.                                                                                |   
-|                        |                        | 22   | Algo aconteceu durante o jogo (elementos do jogo, competição, etc.) que me fez sorrir.                   |   
-|                        | Atenção Focada         | 23   | Havia algo interessante no início do jogo que chamou minha atenção.                                      |   
-|                        |                        | 24   | Eu estava tão envolvido em minhas tarefas de jogo que perdi a noção do tempo.                            |   
-|                        |                        | 25   | Esqueci meu ambiente imediato enquanto jogava.                                                           |   
-|                        | Relevância             | 26   | O conteúdo do jogo é relevante para os meus interesses.                                                  |   
-|                        |                        | 27   | É claro para mim como o conteúdo do jogo se relaciona com o curso.                                       |   
-|                        |                        | 28   | Este jogo é um método de ensino adequado para este curso.                                                |   
-|                        |                        | 29   | Prefiro aprender com este jogo a aprender de outras maneiras (por exemplo, outros métodos de ensino).    |   
-|                        | Aprendizagem Percebida | 30   | O jogo contribuiu para o meu aprendizado neste curso.                                                    |   
-|                        |                        | 31   | O jogo permitiu um aprendizado eficiente em comparação com outras atividades do curso.                   |   
+|                        | Diversão               | 18   | Eu me diverti com o jogo.                                                                                |   
+|                        |                        | 19   | Algo aconteceu durante o jogo (elementos do jogo, competição, etc.) que me fez sorrir.                   |   
+|                        | Atenção Focada         | 20   | Havia algo interessante no início do jogo que chamou minha atenção.                                      |   
+|                        |                        | 21   | Eu estava tão envolvido em minhas tarefas de jogo que perdi a noção do tempo.                            |   
+|                        |                        | 22   | Esqueci meu ambiente imediato enquanto jogava.                                                           |   
+|                        | Relevância             | 23   | O conteúdo do jogo é relevante para os meus interesses.                                                  |   
+|                        |                        | 24   | É claro para mim como o conteúdo do jogo se relaciona com o curso.                                       |   
+|                        |                        | 25   | Este jogo é um método de ensino adequado para este curso.                                                |   
+|                        |                        | 26   | Prefiro aprender com este jogo a aprender de outras maneiras (por exemplo, outros métodos de ensino).    |   
+|                        | Aprendizagem Percebida | 27   | O jogo contribuiu para o meu aprendizado neste curso.                                                    |   
+|                        |                        | 28   | O jogo permitiu um aprendizado eficiente em comparação com outras atividades do curso.    
+
+               |   
 
 ## Histórico de Revisão
 
 | Data | Versão| Descrição | Fase | Autor |
 |----|----|----|----|----|
 | 21/09/2020 | 1 | Criado o Documento TDD e adicionando Personas, requisitos fincionais e não funcionais, e as metas de usabilidade e de experiência do jogador | Análise de Requisitos | Mateus Sousa e Rossiscler|
-| 05/10/2020 | 1.1 | Atualizando Requisitos e Rastreando suas origens | Mateus Sousa |
-| 05/10/2020 | 1.1.2 | Adicionando fotos para as personas | Rossicler |
+| 05/10/2020 | 1.1 | Atualizando Requisitos e Rastreando suas origens | Análise de Requisitos | Mateus Sousa |
+| 05/10/2020 | 1.1.2 | Adicionando fotos para as personas | Análise de Requisitos | Rossicler |
+| 09/11/2020 | 1.2 | Atualizando tabela de metas de experiência do jogador e adicionando novos requisitos | Design, Desenvolvimento e Avaliação | Mateus Sousa |
 
 
 ## Referências

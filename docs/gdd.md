@@ -26,7 +26,7 @@ O jogo terá uma sequência de fases ao qual o usuário deverá seguir para que 
 - Fase 1 Princípios de Usabilidade
 - Fase 2 Heurísticas de Usabilidade de Nielsen
 - Fase 3 Avaliação prática de Heurística de Usabilidade de Nielsen
-- Fase 4 Compilado de todo o conteúdo.
+- Fase Aberta Compilado de todo o conteúdo.
 
 ![Fluxo de uma Fase](./img/fluxo_fases.png)
 Figura 1 - Fluxo de uma Fase
@@ -34,18 +34,12 @@ Figura 1 - Fluxo de uma Fase
 
 ## Seção 3 - Gameplay
 
-Perguntas e respostas
-- Questão: Princípio de Usabilidade -> Resposta: Explicação
-- Questão: Explicação ou descrição de um problema -> Resposta: Princípio de Usabilidade
-- Avaliar interface respondendo qual o problema
-- Avaliar interface apontando o problema (estilo jogo dos 7 erros)
-
 ### Mecânica do Jogo
-Ao iniciar uma fase será feita uma sequência de perguntas ao usuário, o usuário deverá responder essas questões. Cada fase terá X perguntas onde o usuário deverá ter acerto em pelo menos 70% das X questões. Dentro de cada fase o usuário terá a possibilidade de pedir dicas, onde será limitado N dicas por fase. Também será fornecido um botão de ajuda onde ao clicar o usuário terá acesso a diversos links e referências sobre o tema discutido na fase, assim podendo estudar mais sobre o tema abordado.
+Ao iniciar uma fase será feita uma sequência de perguntas ao usuário, o usuário deverá responder essas questões. Cada fase terá X perguntas onde o usuário deverá ter acerto em pelo menos 70% das X questões. Dentro da fase também será fornecido dicas e explicações básicas sobre alguns termos abordados, como por exemplo uma explicação básica sobre cada tipo de heurística.
 
-Dentro da fase também será fornecido explicações básicas sobre alguns termos abordados, como por exemplo uma explicação básica sobre cada tipo de heurística.
+O jogador após ter respondido 70% das perguntas corretamente terá de realizar um teste, onde ele terá Y minutos para responder X questões, sem o auxílio de dicas. Caso ele consiga 70% de acerto no teste ele irá para a próxima fase.
 
-O jogador após ter respondido 70% das perguntas corretamente terá de realizar um teste, onde ele terá I minutos para responder X questões, sem o auxilio de dicas. Caso ele consiga 70% de acerto no teste ele irá para a próxima fase.
+O jogo também conta com uma segunda mecânica de jogo, que uma fase aberta. Nesta fase o jogador poderá responder sobre qualquer conteúdo que ele selecionar. Ele poderá responder quantas questões ele desejar.
 
 
 ### Progressão do Jogo
@@ -67,7 +61,7 @@ Todas as fases do jogo abordará um conhecimento diferente dentro da área de Us
 - **Tema:** Avaliação de Heurística de Usabilidade de Nielsen
 - **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Tarefa de inspeção de interface identificando qual a violação de usabilidade e o local;
 
-##### Fase 4
+##### Fase Aberta
 - **Tema:** Todo o Conteúdo das Fases Anteriores
 - **Tipos de respostas:** Verdadeiro ou Falso; Múltipla Escolha (A,B,C,D); Identificar problemas de usabilidade em uma interface;
 
@@ -75,6 +69,14 @@ Todas as fases do jogo abordará um conhecimento diferente dentro da área de Us
 
 ### Personagem 
 Engenheiro de Software Alien chamado Nielsen, também chamado pelos amigos mais íntimos em Usabilicon por Nielsenlito (tradução em Português)
+
+### Recompensas
+
+O jogador a medida que progride no jogo vai alcançando conquistas por fases ou pela eficiência em alguma parte do jogo.
+
+#### Conquistas das Fases
+
+#### Conquistas da Fase Aberta
 
 ## Sessão 5 - Parâmetros e requisitos do sistema
 
@@ -88,15 +90,12 @@ Plataforma Web
 
 ![Storyboard Persona 1 - Nicoly](./img/storyboard-nicoly.png)
 Figura 2 - Storyboard Persona 1 - Nicoly
-</br></br></br>
 
 ![Storyboard Persona 2 - Carlos](./img/storyboard-carlos.png)
 Figura 3 - Storyboard Persona 2 - Carlos
-</br></br></br>
 
 ![Storyboard Persona 3 - Felipe Pereira dos Santos](./img/storyboard-felipe.PNG)
 Figura 4 - Storyboard Persona 3 Felipe
-</br></br></br>
 
 ### Esboço do jogo
 
@@ -119,3 +118,4 @@ Figura 4 - Storyboard Persona 3 Felipe
 | 16/09/2020 | 1.2.1 | Atualização do tópico "Fases" | Análise de Requisitos | Mateus Sousa |
 | 05/10/2020 | 1.3.1 | Atualização do tópico "Fluxos do jogo" e "Storyboard" | Análise de Requisitos | Rossicler |
 | 22/10/2020 | 1.4 | Adição de novos Storyboards | Design, Desenvolvimento e Avaliação | Mateus Sousa |
+| 09/11/2020 | 1.5 | Alteração do fluxo do jogo | Design, Desenvolvimento e Avaliação | Mateus Sousa |
