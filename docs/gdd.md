@@ -23,10 +23,10 @@ Dentre esses usabiliconianos está Nielsen (traduzido para o Português) especia
 
 ### Fluxo do Jogo 
 O jogo terá uma sequência de fases ao qual o usuário deverá seguir para que possa ser desbloqueado uma nova fase ao qual abordará um conteúdo mais avançado. Esse fluxo consistirá em 4 fases, os temas abordados em cada fase serão:
-- Fase 1 Princípios de Usabilidade
-- Fase 2 Heurísticas de Usabilidade de Nielsen
-- Fase 3 Avaliação prática de Heurística de Usabilidade de Nielsen
-- Fase Aberta Compilado de todo o conteúdo.
+- Fase 1: Princípios de Usabilidade
+- Fase 2: Heurísticas de Usabilidade de Nielsen
+- Fase 3: Avaliação prática de Heurística de Usabilidade de Nielsen
+- Fase Aberta: Compilado de todo o conteúdo.
 
 ![Fluxo de uma Fase](./img/fluxo_fases.png)
 Figura 1 - Fluxo de uma Fase
@@ -35,16 +35,14 @@ Figura 1 - Fluxo de uma Fase
 ## Seção 3 - Gameplay
 
 ### Mecânica do Jogo
-Ao iniciar uma fase será feita uma sequência de perguntas ao usuário, o usuário deverá responder essas questões. Cada fase terá X perguntas onde o usuário deverá ter acerto em pelo menos 70% das X questões. Dentro da fase também será fornecido dicas e explicações básicas sobre alguns termos abordados, como por exemplo uma explicação básica sobre cada tipo de heurística.
+Ao iniciar uma fase será feita uma sequência de perguntas ao usuário, o usuário deverá responder essas questões. Cada fase terá X perguntas onde o usuário deverá acertar 100% das questões para concluí-la e liberar a próxima fase. Dentro da fase será fornecido dicas e explicações básicas sobre alguns termos abordados, como por exemplo uma explicação básica sobre cada tipo de heurística. Ao longo da fase o jogador irá receber recompensas de acordo com seu desempenho.
 
-O jogador após ter respondido 70% das perguntas corretamente terá de realizar um teste, onde ele terá Y minutos para responder X questões, sem o auxílio de dicas. Caso ele consiga 70% de acerto no teste ele irá para a próxima fase.
-
-O jogo também conta com uma segunda mecânica de jogo, que uma fase aberta. Nesta fase o jogador poderá responder sobre qualquer conteúdo que ele selecionar. Ele poderá responder quantas questões ele desejar.
+O jogo conta com uma segunda mecânica de jogo, que uma fase aberta. Nesta fase o jogador poderá responder sobre qualquer conteúdo que ele selecionar. Ele poderá responder quantas questões ele desejar. Esta fase não conta com a conquista de recompensas.
 
 
 ### Progressão do Jogo
 #### Fases
-Todas as fases do jogo abordará um conhecimento diferente dentro da área de Usabilidade, indo do conceito mais inicial até a avaliação de interfaces feitas pelo usuário, cada questão poderá ter um formato diferente de respota, abaixo será descrito o que será abordado em cada fase e quais são os formatos de respostas esperados pelo usuário.
+Todas as fases do jogo abordarão um conhecimento diferente dentro da área de Usabilidade, indo do conceito mais inicial até a avaliação de interfaces feitas pelo usuário, cada questão poderá ter um formato diferente de respota, abaixo será descrito o que será abordado em cada fase e quais são os formatos de respostas esperados pelo usuário.
 
 
 ##### Fase 1
@@ -72,11 +70,16 @@ Engenheiro de Software Alien chamado Nielsen, também chamado pelos amigos mais 
 
 ### Recompensas
 
-O jogador a medida que progride no jogo vai alcançando conquistas por fases ou pela eficiência em alguma parte do jogo.
+- Recompensa 1: Acertando minha 1ª Questão
+- Recompensa 2: Acertar 5 Questões seguidas sem errar
+- Recompensa 3: Concluir a Fase 1
+- Recompensa 4: Concluir a Fase 2
+- Recompensa 5: Concluir a Fase 3
+- Recompensa 6: Mestre das Interfaces, acertar todas as questões sem errar na fase 3
+- Recompensa 7: Mestre das Heurísticas, acertar todas as questões sem errar na fase 2
+- Recompensa 8: Mestre da Usabilidade, acertar todas as questões sem errar na fase 1
+- Recompensa 9: Mestre Engenheiro, acertar todas as questões sem errar em todas as fases
 
-#### Conquistas das Fases
-
-#### Conquistas da Fase Aberta
 
 ## Sessão 5 - Parâmetros e requisitos do sistema
 
@@ -119,3 +122,4 @@ Figura 4 - Storyboard Persona 3 Felipe
 | 05/10/2020 | 1.3.1 | Atualização do tópico "Fluxos do jogo" e "Storyboard" | Análise de Requisitos | Rossicler |
 | 22/10/2020 | 1.4 | Adição de novos Storyboards | Design, Desenvolvimento e Avaliação | Mateus Sousa |
 | 09/11/2020 | 1.5 | Alteração do fluxo do jogo | Design, Desenvolvimento e Avaliação | Mateus Sousa |
+| 23/11/2020 | 1.5 | Adicionando Recompensas e refatorando gameplay | Design, Desenvolvimento e Avaliação | Mateus Sousa |
