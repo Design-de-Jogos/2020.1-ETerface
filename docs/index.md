@@ -27,3 +27,7 @@ Neste documento são apresentados os aspectos de técnico de desenvolviemnto do 
 ### [Avaliação do Protótipo de Papel](prototype_low.md)
 
 Neste documento é apresentado o relato da execução da avaliação do protótipo de papel.
+
+### [Avaliação do Protótipo de Alta Fidelidade](prototype_high.md)
+
+Neste documento é apresentado o relato da execução da avaliação do protótipo de alta fidelidade.

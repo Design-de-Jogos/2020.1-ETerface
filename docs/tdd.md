@@ -50,37 +50,37 @@ Renato é um aluno que tem orgulho de dizer que estuda na UnB, porém não se es
 ### Requisitos Funcionais
 - RF01: CRUD do Jogador [Brainstorming]
 - RF02: O Jogador deve ser capaz de iniciar, progredir e finalizar as fases [Brainstorming]
-- RF03: O Jogador deve ser capaz de iniciar, progredir e finalizar as tarefas de cada fase [Brainstorming]
+- RF03: O Jogador deve ser capaz de responder cada questão [Brainstorming]
 - RF04: O Jogo deve contabilizar a porcentagem de progresso da fase jogada [Brainstorming]
-- RF05: O Jogo deve limitar o tempo de conclusão das últimas tarefas das fases [Brainstorming]
-- RF06: O Jogador deve ser capaz de entrar e sair do jogo [Brainstorming]
-- RF07: O Jogo deve ser capaz de salvar o progresso do jogador [Brainstorming]
-- RF08: O Jogo deve aceitar e verificar a resposta selecionada pelo jogador em cada atividade[Brainstorming]
-- RF09: As tarefas de cada fase devem disponibilizar o corpo textual da questão [Brainstorming]
-- RF10: O jogo deve disponibilizar o conteúdo a ser ensinado [Brainstorming]
-- RF11: O jogador deve poder confirmar sua resposta antes dela ser aceita [Personas]
+- RF05: O Jogador deve ser capaz de entrar e sair do jogo [Brainstorming]
+- RF06: O Jogo deve salvar o progresso do jogador a cada confirmação de resposta [Brainstorming]
+- RF07: O Jogo deve aceitar e verificar a resposta selecionada pelo jogador em cada questão[Brainstorming]
+- RF08: As questões de cada fase devem disponibilizar o corpo textual da pergunta ou afirmativa [Brainstorming]
+- RF10: O jogador deve poder confirmar sua resposta antes dela ser aceita [Personas]
+- RF11: O jogo deve armazenar e apresentar conteúdo textual das regras, história, conteúdo disciplinar acesso às regras do jogo [Protótipo] [Brainstorming]
+- RF12: O jogo deve armazenar recompensas conquistadas [Protótipo] [Personas]
+- RF13: O jogo deve possibilitar o ajuste de algumas configurações [Protótipo] [Brainstorming]
 
 
 ### Requisitos Não-Funcionais
 - RNF01: O jogador deve ser capaz de visualizar seu progresso das fases [Brainstorming]
-- RNF02: O jogador deve ser capaz de visualizar seu progresso das tarefas [Brainstorming]
+- RNF02: O jogador deve ser capaz de visualizar seu progresso nas questões [Brainstorming]
 - RNF03: O jogador deve receber feedback ao final de cada fase, se conseguiu ou não passar para a próxima fase [Artigo CBIE] [Personas]
 - RNF04: O Jogo deve apresentar dicas durante a execução das tarefas das fases [Artigo CBIE] [Personas]
-- RNF05: O Jogo não deve apresentar dicas durante a execução das últimas tarefas das fases [Personas]
-- RNF06: O Jogo deve dar um feedback do tempo restante para se concluir a última tarefa da fase [Artigo CBIE] [Personas]
-- RNF07: O Jogo deve apresentar a história do jogo [Artigo CBIE]
-- RNF08: O Jogo deve aprensentar o conteúdo da disciplina completo e resumido [Artigo CBIE] [Personas]
-- RNF09: Opções selecionadas devem ser destacadas visualmente [Artigo CBIE]
-- RNF10: O jogo deve apresentar uma mensagem de erro e uma resposta correta e a breve explicação a cada tarefa caso o jogador erre [Artigo CBIE] [Personas]
-- RNF11: As tarefas de inspeção de interface devem apresentar um lista de componentes da interface e lista de opções de violação como resposta [Brainstorming]
-- RNF12: O jogo deve apresentar a mecânica do jogo e suas regras [Artigo CBIE]
-- RNF13: O jogo deve disponibilizar uma seção onde o aluno pode exercitar sobre qualquer conteúdo [Personas]
-- RNF14: Ao clicar na fase desejada a opção de iniciar a fase aparece próxima a opção da fase [Personas]
-- RNF15: O jogo deve apresentar uma mensagem de acerto e uma breve explicação a cada tarefa caso o jogador acerte [Artigo CBIE] [Persona]
-- RNF16: O jogo deve dar um feedback de conclusão da fase e direcionar para a próxima [Personas] [Artigo CBIE]
-- RNF17:  O jogo deve dar feedbacks ao longo da fase para manter o engajamento do jogador [Quick and Dirty] [Artigo CBIE]
-- RNF18: O jogo deve recompensar o jogador com emblmas e conquistas [Quick and Dirty] [Artigo CBIE]
-- RNF19: O jogo deve apresentar um feedback que o teste está disponível para ser realizado[Personas] [Artigo CBIE]
+- RNF05: O Jogo deve apresentar a história do jogo [Artigo CBIE]
+- RNF06: O Jogo deve aprensentar o conteúdo da disciplina [Artigo CBIE] [Personas]
+- RNF07: Opções selecionadas devem ser destacadas visualmente [Artigo CBIE]
+- RNF08: O jogo deve apresentar uma breve explicação a cada tarefa caso o jogador erre a questão[Artigo CBIE] [Personas]
+- RNF09: As tarefas de inspeção de interface devem apresentar um lista de componentes da interface e lista de opções de violação como resposta [Brainstorming]
+- RNF10: O jogo deve apresentar a mecânica do jogo e suas regras [Artigo CBIE]
+- RNF11: O jogo deve disponibilizar uma seção onde o aluno pode exercitar sobre qualquer conteúdo [Personas]
+- RNF12: Ao clicar na fase desejada a opção de iniciar fica habilitada ao clique [Personas]
+- RNF13: O jogo deve apresentar uma mensagem de congratulação em algumas tarefas caso o jogador acerte [Artigo CBIE] [Persona]
+- RNF14: O jogo deve dar um feedback de conclusão da fase e direcionar para a próxima [Personas] [Artigo CBIE]
+- RNF15:  O jogo deve dar feedbacks ao longo da fase para manter o engajamento do jogador [Quick and Dirty] [Artigo CBIE]
+- RNF16: O jogo deve recompensar o jogador com emblemas e conquistas [Quick and Dirty] [Artigo CBIE]
+- RNF17: O jogo deve apresentar um menu accessível [Protótipo] [Brainstorming]
+- RNF18: O jogo deve disponibilizar no menu, o acesso às configurações, regras, história, conteúdo, recompensas, perfil do jogador, página principal e sair do jogo  [Protótipo] [Brainstorming]
 
 ## Seção 3 - Metas de Usabilidade e Experiência do Jogador
 
@@ -128,6 +128,8 @@ O modelo MEEGA + visa avaliar a qualidade dos jogos educacionais em termos de us
 | 05/10/2020 | 1.1 | Atualizando Requisitos e Rastreando suas origens | Análise de Requisitos | Mateus Sousa |
 | 05/10/2020 | 1.1.2 | Adicionando fotos para as personas | Análise de Requisitos | Rossicler |
 | 09/11/2020 | 1.2 | Atualizando tabela de metas de experiência do jogador e adicionando novos requisitos | Design, Desenvolvimento e Avaliação | Mateus Sousa |
+| 23/11/2020 | 1.3 | Atualizando Requisitos | Design, Desenvolvimento e Avaliação | Mateus Sousa |
+
 
 
 ## Referências
