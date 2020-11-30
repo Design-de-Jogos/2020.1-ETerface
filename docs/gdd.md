@@ -5,6 +5,11 @@
 ### Título do Jogo
 ETerface
 
+### Modo de jogo
+Single player (um jogador)
+
+### Objetivo
+Aprender e praticar o tema Usabilidade de IHC
 
 ## Seção 2 - Background e Fluxo do Jogo
 
