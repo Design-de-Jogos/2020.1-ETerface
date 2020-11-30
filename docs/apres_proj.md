@@ -14,3 +14,7 @@ Acesse o [link](https://youtu.be/mBK7NQULc7s) para acessar a apresentação sobr
 
 ### Planejamento da avaliação e relato dos resultados da avaliação do Protótipo de papel
 Acesse o [link](https://youtu.be/262XWOlIMkg ) para acessar a apresentação sobre o planejamento da avaliação e relato dos resultados da avaliação do Protótipo de papel
+
+### Apresentação do Projeto Final
+Acesse o [link](https://youtu.be/8gs6Hh81sN4) para acessar a apresentação sobre o projeto completo
+
