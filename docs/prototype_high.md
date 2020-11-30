@@ -34,9 +34,9 @@ Os participantes foram as personas levantadas no projeto:
 - [Protótipo de Papel ETerface - Felipe](###)
 
 ## Protótipo de Alta Fidelidade
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="auto" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FH5GEeVaXOVuFJPdFMS45qb%2FETerface%3Fnode-id%3D9%253A200%26scaling%3Dmin-zoom"></iframe>
-
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; bottom: 0; right: 0;" width="100%" height="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FH5GEeVaXOVuFJPdFMS45qb%2FETerface%3Fnode-id%3D9%253A200%26scaling%3Dmin-zoom"></iframe>
+</div>
 ## Histórico de Revisão
 
 | Data | Versão| Descrição | Fase | Autor |
