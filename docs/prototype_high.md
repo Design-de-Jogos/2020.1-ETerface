@@ -40,9 +40,7 @@ O relato dos resultados pode ser encontrado no documento a seguir, as questões 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp_rTqIQOaDFJhQqhD8HuTSBByatkWTWT5myfnl7jDsOi2KHyueeQpIdqhqa_wholpvTw87Y4r7sX9/pubhtml?gid=1363344387&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
 
-[Tabela](https://docs.google.com/spreadsheets/d/15wLK1sVJnBr7EsqxTt_cciFDisf6UKp1P8XFwTOO8kg/edit#gid=1363344387&range=E8:I37) de Respostas dos participantes
-
-
+[Tabela](https://docs.google.com/spreadsheets/d/e/2PACX-1vRp_rTqIQOaDFJhQqhD8HuTSBByatkWTWT5myfnl7jDsOi2KHyueeQpIdqhqa_wholpvTw87Y4r7sX9/pubhtml?gid=1363344387&single=true) de Respostas dos participantes
 
 ## Vídeos da apresentação do fluxo do protótipo
 
